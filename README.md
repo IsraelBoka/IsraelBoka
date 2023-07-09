@@ -8,7 +8,7 @@ React Lover + Node lover = Nextjs fanatic
 
 * 🌍  I'm based in Abidjan, 🇨🇮
 * ✉️  You can contact me at [israelboka5@gmail.com](mailto:israelboka5@gmail.com)
-* 🚀  I'm currently working on [Chapchap](http://chapchaponlyts.vercel.app/)
+* 🚀  I'm currently working on [Dabara](http://dabara.vercel.app/)
 
 ### Skills
 
